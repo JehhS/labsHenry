@@ -16,7 +16,7 @@ product demo video: :movie_camera: https://www.youtube.com/watch?v=BqkQEhdQq3E
 <br>
 <img src='https://i.ibb.co/tM6LtYP/Screenshot-2.jpg' </img>
 <br>
-<img src='https://i.ibb.co/kGxtwTK/perfil.jpg' </img>
+<img src='https://i.ibb.co/3T7njb1/perfil.jpg' </img>
 <br>
 <img src='https://i.ibb.co/rFk89n8/mobile.jpg' </img>
 </p>
