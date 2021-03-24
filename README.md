@@ -12,7 +12,7 @@ product demo video: :movie_camera: https://www.youtube.com/watch?v=BqkQEhdQq3E
 <br>
 <img src='https://i.ibb.co/7CGXKkT/Screenshot-1.jpg' </img>
 <br>
-<img src='https://i.ibb.co/k36ySRT/Alumnos2.jpg' </img>
+<img src='https://i.ibb.co/8sm2smc/clases.jpg' </img>
 <br>
 <img src='https://i.ibb.co/tM6LtYP/Screenshot-2.jpg' </img>
 <br>
