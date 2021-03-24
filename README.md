@@ -21,6 +21,4 @@ product demo video: :movie_camera: https://www.youtube.com/watch?v=BqkQEhdQq3E
 <img src='https://i.ibb.co/rFk89n8/mobile.jpg' </img>
 </p>
 
-## Project requirements (in Spanish)
 
-:point_down:
